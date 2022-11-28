@@ -1,4 +1,5 @@
 {
+  "name": "nextjs-github-pages",
   "private": true,
   "scripts": {
     "dev": "next",
